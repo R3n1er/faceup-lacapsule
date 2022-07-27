@@ -9,3 +9,7 @@ En termes de fonctionnalités, vous allez :
 * Mettre en place un système de galerie de photos.
 * Utiliser une intelligence artificielle pour identifier, sur une photo, l’âge approximatif, couleur des yeux, sexe… et générer des tags intelligents automatiquement.
 
+
+--> FrontEnd : ReactNative avec expo
+--> Backend : Express Node.js
+
